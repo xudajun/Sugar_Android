@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SugarTextView">
+        <attr name="bgDefault" format="color" />
+        <attr name="bgPressed" format="color" />
+        <attr name="bgDisable" format="color" />
+        <attr name="textColorDisable" format="color" />
+        <attr name="textColorPressed" format="color" />
+        <attr name="textColorDefault" format="color" />
+        <attr name="corners" format="dimension" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="borderColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="SugarEditText">
+        <attr name="et_bgDefault" format="color" />
+        <attr name="et_bgFocused" format="color" />
+        <attr name="et_borderWidth" format="dimension" />
+        <attr name="et_corners" format="dimension" />
+        <attr name="et_borderColor" format="color" />
+        <attr name="et_borderColorFocused" format="color" />
+    </declare-styleable>
+</resources>
